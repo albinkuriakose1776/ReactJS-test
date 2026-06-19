@@ -17,7 +17,7 @@ function App() {
     <NavBar/>
     <Routes>
       <Route path='/v' element={<ViewEmp/>}/>
-      \<Route path='/a' element={<AddEmp/>}/>
+      <Route path='/a' element={<AddEmp/>}/>
     </Routes>
     </BrowserRouter>
     </>
